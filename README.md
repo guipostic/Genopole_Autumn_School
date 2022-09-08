@@ -1,2 +1,2 @@
-# Genopole_Summer_School
+# Genopole_Autumn_School
 Practical course using the EvryRNA tools
